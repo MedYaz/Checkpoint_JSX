@@ -1,0 +1,22 @@
+.bloc-total{
+    font-family: montserrat;
+    margin: 30px;
+    text-align: center;
+}
+
+.div-total {
+    border: solid 1px black;
+    max-width: 100vw;
+    padding: 20px;
+    text-align: center;
+}
+
+.mediaplayer {
+    padding: 10px;
+    width: 320px;
+    height: 240px;
+    display: block;
+    margin: 0 auto;
+}
+
+
